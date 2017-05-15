@@ -4,3 +4,5 @@ git config --global user.email "email"
 git config --global user.name
 git config --global user.email
 git status
+git add arquivo.txt
+git commit -m "mensagem"
