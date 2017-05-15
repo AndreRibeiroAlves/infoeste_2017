@@ -6,4 +6,5 @@ git config --global user.name
 git config --global user.email
 git status
 git add arquivo.txt
+gti add ./////tudo
 git commit -m "mensagem"
