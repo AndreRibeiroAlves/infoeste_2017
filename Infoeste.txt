@@ -8,4 +8,4 @@ git status
 git add arquivo.txt
 gti add ./////tudo
 git commit -m "mensagem"
-infoeste info2846
+////////////////git infoeste in28fo46
