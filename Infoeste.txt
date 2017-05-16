@@ -11,6 +11,7 @@ git commit -m "mensagem"
 infoeste info2846
  git branch 
 git checkout b1
+git branch -d b1
 
 
 
