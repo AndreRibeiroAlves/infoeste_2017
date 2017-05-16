@@ -9,9 +9,8 @@ git add arquivo.txt
 gti add ./////tudo
 git commit -m "mensagem"
 infoeste info2846
-
-
-
+ git branch 
+git checkout b1
 
 
 
